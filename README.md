@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi 👋, I'm Ruvindi Chathurya</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matharaarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="matharaarachchi" /> </p>
  Mathara Arachchi M.A.R.C. - IT22590176
